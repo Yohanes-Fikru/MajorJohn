@@ -1,13 +1,3 @@
----
-dg-publish: true
-dg-home: true
-dg-enable-search: true
-dg-show-local-graph: false
-dg-home-link: false
-dg-show-backlinks: false
-dg-show-inline-title: false
-dg-show-file-tree: true
----
 # Yohanes Fikru  
 _Game Developer • Studio Co-Founder • Systems Thinker_
 

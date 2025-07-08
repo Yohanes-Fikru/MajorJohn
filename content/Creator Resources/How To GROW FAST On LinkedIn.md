@@ -1,12 +1,3 @@
----
-dg-publish: true
-dg-enable-search: true
-dg-show-local-graph: false
-dg-home-link: true
-dg-show-backlinks: false
-dg-show-inline-title: true
-dg-show-file-tree: true
----
 Video link: [How To GROW FAST On LinkedIn](https://www.youtube.com/watch?v=3tXVSpImzXk)
 Resource link: 
 
