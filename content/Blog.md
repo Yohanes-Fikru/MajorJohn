@@ -18,14 +18,3 @@ Welcome to my corner of the internet. Here, I share my thoughts, learnings, and 
 ---
 
 ### Recent Posts
-
-- **[Blog Post Title 3] - [Date]**  
-    A short, one-sentence summary of the blog post to entice the reader.  
-    [Read More...](https://www.google.com/url?sa=E&q=link-to-post)
-- **[Blog Post Title 2] - [Date]**  
-    A short, one-sentence summary of the blog post to entice the reader.  
-    [Read More...](https://www.google.com/url?sa=E&q=link-to-post)
-- **[Blog Post Title 1] - [Date]**  
-    A short, one-sentence summary of the blog post to entice the reader.  
-    [Read More...](https://www.google.com/url?sa=E&q=link-to-post)
-    
