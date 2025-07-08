@@ -31,7 +31,7 @@ I currently split my time between three core areas:
 | Project        | Description                                                                                                 | My Role                    |
 | :------------- | :---------------------------------------------------------------------------------------------------------- | :------------------------- |
 | **Lomi**       | A 3rd-person mobile game that addresses the culture of cat-calling in a survival game format.               | Lead Developer, Co-Founder |
-| **Bit-Racer**  | A mobile multiplayer game where players compete by typing or answering trivia questions.                    | Team Lead, Project Manager |
+| **Bit-Racer**  | A mobile multiplayer game where players compete by typing or answering trivia questions.                    | Team Lead, Unity Developer |
 | **Efuye Gela** | Working on web and native VR projects that showcase cultural artifacts for local and international clients. | Senior Game Developer      |
 
 [**Explore my full portfolio...**](link-to-your-portfolio)
