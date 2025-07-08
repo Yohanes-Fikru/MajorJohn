@@ -1,3 +1,9 @@
+---
+title: Home
+draft: false
+tags:
+  - example-tag
+---
 # Yohanes Fikru  
 _Game Developer • Studio Co-Founder • Systems Thinker_
 
